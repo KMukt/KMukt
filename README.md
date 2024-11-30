@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukta Dekhane</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+<img align="right"src="https://startupsmagazine.co.uk/sites/default/files/2020-04/Smart-little-girl-using-her-laptop-1.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmukta&label=Profile%20views&color=0e75b6&style=flat" alt="kmukta" /> </p>
 
